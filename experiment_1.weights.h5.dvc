@@ -1,5 +1,0 @@
-outs:
-- md5: 9d65c75700c5ca35294cd352d6058d63
-  size: 1665664
-  hash: md5
-  path: experiment_1.weights.h5
