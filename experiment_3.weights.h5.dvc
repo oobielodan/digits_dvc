@@ -1,0 +1,5 @@
+outs:
+- md5: 62f2e7deb84c9dfb236c6cd95a64a6a8
+  size: 1665664
+  hash: md5
+  path: experiment_3.weights.h5
